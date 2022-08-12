@@ -1,7 +1,7 @@
-# EnergyKeeper
+# Energy Keeper
 Arcade-style game based on Octopus(1981)
 
-This game uses SDL 2.0 under the zpl license:
+This game uses SDL 2.0 under the zlib license:
 
 ------------------------SDL 2.0 license------------------------
 
