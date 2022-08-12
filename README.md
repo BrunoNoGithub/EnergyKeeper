@@ -4,6 +4,8 @@ Arcade-style game based on Octopus(1981)
 This game uses SDL 2.0 under the zpl license:
 
 ------------------------SDL 2.0 license------------------------
+
+
     SDL 2.0 and newer are available under the zlib license :
 
     This software is provided 'as-is', without any express or implied
